@@ -1,4 +1,8 @@
 function add(x,y){
     return x+y;
 }
-add();
+function sub(x,y){
+    return x-y;
+}
+add(4,5);
+sub(4-7);
